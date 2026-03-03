@@ -1,3 +1,6 @@
+// Easter Egg - 1
+// "I know what kind of God I need to be. For you. For all of us."
+
 const capitaoAmerica = {
     nome: "Steve Rogers",
     codinome: "Capitão América",
