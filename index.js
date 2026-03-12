@@ -61,9 +61,6 @@ const thor = {
     },
 };
 
-// Easter Egg - 1
-// "I know what kind of God I need to be. For you. For all of us."
-
 const hulk = {
     nome: "Bruce Banner",
     codinome: "Hulk",
